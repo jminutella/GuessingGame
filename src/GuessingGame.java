@@ -28,7 +28,7 @@ public class GuessingGame {
 			menuOption = userInput.nextInt();
 			
 			if (menuOption == 2) {
-				System.out.println("Exiting the game. Thank you for playing!");
+				System.out.println("Exiting the game. Thanks for playing!");
 				break; 
 			
 			} else if (menuOption == 1) {
