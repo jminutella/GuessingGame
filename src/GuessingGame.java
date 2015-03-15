@@ -37,7 +37,7 @@ public class GuessingGame {
 				getRandomRange();
 			
 			} else {
-					System.out.println("Sorry, that's not a valid option. Please try again.");
+					System.out.println("Sorry, that's not a valid option. Please select an option.");
 					continue;
 			}
 		}
